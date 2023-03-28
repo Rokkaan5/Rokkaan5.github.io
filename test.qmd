@@ -1,0 +1,24 @@
+---
+title: test-page
+author: Jasmine Kobayashi
+output: html
+toc: true
+---
+
+
+# Math/LaTeX testing
+
+a = \sqrt{b^2 + c^2}
+
+
+# Code testing
+
+## R 
+```{r}
+print('hello r')
+```
+
+## Python
+```{python}
+print('hello python')
+```
