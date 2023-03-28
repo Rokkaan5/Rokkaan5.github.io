@@ -8,7 +8,7 @@ toc: true
 
 # Math/LaTeX testing
 
-a = \sqrt{b^2 + c^2}
+$a = \sqrt{b^2 + c^2}$
 
 
 # Code testing
