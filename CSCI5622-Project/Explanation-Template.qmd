@@ -2,6 +2,7 @@
 title: "Template - Detailed Math"
 author: Jasmine Kobayashi
 format: html
+toc: true
 ---
 
 ---
